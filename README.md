@@ -40,4 +40,4 @@ MRI_ACCELERATE_RECO/
 ## 📬 Contact
 **Wei Jia**  
 School of Biomedical Engineering, ShanghaiTech University  
-📧 Email: [jiawei1@shanghaitech.edu.cn](mailto:jiawei1@shanghaitech.edu.cn)
+📧 Email: [jiawei2022@shanghaitech.edu.cn](mailto:jiawei2022@shanghaitech.edu.cn)
